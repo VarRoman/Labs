@@ -44,7 +44,26 @@ class DefineCars:
                 break
 
 
-class TaxiPark(DefineCars):
+class SortAndSearch(DefineCars):
+    """Клас для сортування та пошуку"""
+    def __init__(self):
+        super().__init__()
+        self.sorted_list = []
+
+    @staticmethod
+    def getkey(x):
+        return x[2]
+
+    def sort_the_car_list(self):
+        self.user_input.sort(key=self.getkey, reverse=True)
+
+    def search_in_range(self, x, y, part):
+        for i in self.user_input:
+            if int(x) < int(i[part - 1]) < int(y):
+                self.sorted_list.append(i)
+        return self.sorted_list
+
+class TaxiPark(SortAndSearch):
     """Клас для виведення таблички та рахування вартості таксопарку"""
     def show_park(self):
         print('Назва:      Ціна:       Витр. пал.:   Швидкість:   Рейтинг:')
@@ -83,4 +102,5 @@ class TaxiPark(DefineCars):
 
 
 cl = TaxiPark()
+cl.sort_the_car_list()
 cl.table_and_price()
