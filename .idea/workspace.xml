@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6aca5cbf-0ec1-4e0d-840d-759d7a89ae3b" name="Changes" comment="Second class finished, all methods were added and edited">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6aca5cbf-0ec1-4e0d-840d-759d7a89ae3b" name="Changes" comment="Created main class and the lab is finished">
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,9 +22,12 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -76,15 +78,60 @@
       <option name="project" value="LOCAL" />
       <updated>1685609708817</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Created third class and barely balanced consistency">
+      <created>1685623557109</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685623557109</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Created main class and the lab is finished">
+      <created>1685692920431</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685692920431</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Created main class and the lab is finished">
+      <created>1685693869408</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685693869408</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Created main class and the lab is finished">
+      <created>1685695708163</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1685695708163</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Created main class and the lab is finished">
+      <created>1685695943660</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1685695943660</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Created main class and the lab is finished">
+      <created>1685695948263</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1685695948263</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="First class was made and finished" />
     <MESSAGE value="Second class finished, all methods were added and edited" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second class finished, all methods were added and edited" />
+    <MESSAGE value="Created third class and barely balanced consistency" />
+    <MESSAGE value="Created main class and the lab is finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created main class and the lab is finished" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/6_lab$main.coverage" NAME="main Coverage Results" MODIFIED="1685623292140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/6_lab$main.coverage" NAME="main Coverage Results" MODIFIED="1685696203368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
